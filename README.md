@@ -4,11 +4,23 @@
 
 # Survey
 
-- [Federated Learning for Generalization,Robustness, Fairness: A Survey and Benchmark](https://arxiv.org/pdf/2311.06750.pdf) - *arXiv:2311.06750 23'* By [MARS](https://marswhu.github.io/index.html) Group
+- [Federated Learning for Generalization,Robustness, Fairness: A Survey and Benchmark](https://arxiv.org/pdf/2311.06750.pdf) - *arXiv:2311.06750 23'*
 
-- [Heterogeneous federated learning: State-of-the-art and research challenges](https://arxiv.org/pdf/2307.10616.pdf) - *ACM Computing Surveys 23'*  By [MARS](https://marswhu.github.io/index.html) Group
+- [Heterogeneous federated learning: State-of-the-art and research challenges](https://arxiv.org/pdf/2307.10616.pdf) - *ACM Computing Surveys 23'*
 
 # Specific Works
+
+## 1
+
+## 2
+
+## 3
+
+## 4
+
+## 5
+
+## 6
 
 
 
