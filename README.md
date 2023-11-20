@@ -1,6 +1,6 @@
 # FL-Research-Highlight
 
-**The purpose of this work is to follow the state-of-the-art works on Federated Learning. **
+**The purpose of this work is to follow the state-of-the-art works on Federated Learning**
 
 ## Survey
 
