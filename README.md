@@ -30,7 +30,7 @@
 
 ## Complex Aggregation Research：
 
-**Datasets ** 每个客户端选一部分数据上传，训练GAN/GCAE模型，根据GAN/GCAE生成增强的IID数据集
+**Datasets** 每个客户端选一部分数据上传，训练GAN/GCAE模型，根据GAN/GCAE生成增强的IID数据集
 
 GAN - [Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data](https://arxiv.org/pdf/1811.11479.pdf) - *ArXiv’23*
 
