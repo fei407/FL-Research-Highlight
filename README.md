@@ -94,7 +94,7 @@ Adaptive Selection [TiFL: A Tier-based Federated Learning System](https://dl.acm
 
 [FedSim: Similarity guided model aggregation for Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016039) - *Neurocomputing'22*
 
-[Clustered federated learning with weighted model aggregation for imbalanced data](Clustered federated learning with weighted model aggregation for imbalanced data) - *China Communication'22*
+[Clustered federated learning with weighted model aggregation for imbalanced data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861223) - *China Communication'22*
 
 [Adaptive Clustering-Based Model Aggregation for Federated Learning with Imbalanced Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9593144) - *SPAWC'21*
 
