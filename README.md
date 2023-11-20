@@ -44,7 +44,7 @@ Deep Q-learning - [Optimizing Federated Learning on Non-IID Data with Reinforcem
 
 MAB - [Federated Learning with Class Imbalance Reduction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9616052) - *EUSIPCO'21*
 
-Adaptive Selection [TiFL: A Tier-based Federated Learning System](https://dl.acm.org/doi/pdf/10.1145/3369583.3392686) - *HPDC'20*
+Adaptive Selection - [TiFL: A Tier-based Federated Learning System](https://dl.acm.org/doi/pdf/10.1145/3369583.3392686) - *HPDC'20*
 
 [FedSAE: A Novel Self-Adaptive Federated Learning Framework in Heterogeneous Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9533876) - *IJCNN'21*
 
