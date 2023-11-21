@@ -20,13 +20,22 @@
 
   **Local SGD + Server average aggregation**
 
-#### Model regularization
+## Model regularization
 
 - FedPox: [Federated optimization in heterogeneous networks](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html) - *MLSys’20*
 - SCAFFOLD: [SCAFFOLD: Stochastic Controlled Averaging for On-Device Federated Learning](https://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf) - *ICML'20*
 - MOON: [Model-Contrastive Federated Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.pdf) - *CVPR'21*
 
+## Optimization
 
+- FedOPT: [Adaptive federated optimization](https://arxiv.org/pdf/2003.00295.pdf) - *ArXiv’21*
+- MFL: [Accelerating Federated Learning via Momentum Gradient Descent](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003425) - *IEEE TPDS'20*
+- Mime: [Mime: Mimicking Centralized Stochastic Algorithms in Federated Learning](https://arxiv.org/pdf/2008.03606.pdf) - *ArXiv’21*
+- Mimelite: [Breaking the centralized barrier for cross-device federated learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/f0e6be4ce76ccfa73c5a540d992d0756-Paper.pdf) - *NeurIPS'21*
+- FedGBO: [Accelerating Federated Learning With a Global Biased Optimiser](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9913718) - *IEEE TC'22*
+- FedLocal: [Local Adaptivity in Federated Learning: Convergence and Consistency](https://arxiv.org/pdf/2106.02305.pdf) - *ArXiv’21*
+- FedDA: [Accelerated Federated Learning with Decoupled Adaptive Optimization](https://proceedings.mlr.press/v162/jin22e/jin22e.pdf) - *PMLR'22*
+- FedUR: [FedUR: Federated Learning Optimization Through Adaptive Centralized Learning Optimizers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10180365) - *IEEE TSP'23*
 
 ## Complex Aggregation Research：
 
@@ -126,7 +135,7 @@ Adaptive Selection - [TiFL: A Tier-based Federated Learning System](https://dl.a
 
 [Federated Learning with Personalization Layers](https://arxiv.org/pdf/1912.00818.pdf) - *ArXiv'19*
 
-[FAIR: Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation]() - *IEEE INFOCOM'21*
+[FAIR: Quality-Aware Federated Learning with Precise User Incentive and Model Aggregation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9488743) - *IEEE INFOCOM'21*
 
 ...
 
