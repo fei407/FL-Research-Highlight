@@ -227,27 +227,7 @@ In this approach, **a central hypernetwork model** is trained to generate a set 
 
 
 
-### 5.8 Sharing
-
-1.FedPer - [Federated Learning with Personalization Layers](https://arxiv.org/pdf/1912.00818.pdf) - *ArXiv'19* [code](https://github.com/ki-ljl/FedPer)
-
-This paper proposed FedPer, a **base + personalization layer approach** for federated training of deep feed forward neural networks, which can combat the ill-effects of statistical heterogeneity.
-
-
-
-2.[Exploiting Shared Representations for Personalized Federated Learning](https://proceedings.mlr.press/v139/collins21a/collins21a.pdf) - *PMLR’21*
-
-They proposed a novel federated learning framework and algorithm for learning a **shared data representation** across clients and **unique local heads** for each client. Their algorithm harnesses the distributed computational power across clients to perform many local-updates with respect to the low-dimensional local parameters for every update of the representation.
-
-
-
-3.FedPAC - [Personalized federated learning with feature alignment and classifier collaboration](https://arxiv.org/pdf/2306.11867.pdf) - *ICLR'23* [code](https://github.com/JianXu95/FedPAC)
-
-They conducted explicit **local-global feature alignment** by leveraging **global semantic knowledge** for learning a better representation. Moreover, we quantify the benefit of classifier combination for each client as a function of the combining **weights and derive an optimization problem** for estimating optimal weights.
-
-...
-
-### 5.9 Fairness and robustness
+### 5.8 Fairness and robustness
 
 1.Ditto - [Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h/li21h.pdf) - *PMLR’21* [code](https://github.com/s-huu/Ditto)
 
@@ -261,7 +241,15 @@ They proposed a novel system named FAIR. FAIR integrates three major components:
 
 
 
-### 5.10 Others
+3.FedPAC - [Personalized federated learning with feature alignment and classifier collaboration](https://arxiv.org/pdf/2306.11867.pdf) - *ICLR'23* [code](https://github.com/JianXu95/FedPAC)
+
+They conducted explicit **local-global feature alignment** by leveraging **global semantic knowledge** for learning a better representation. Moreover, we quantify the benefit of classifier combination for each client as a function of the combining **weights and derive an optimization problem** for estimating optimal weights.
+
+...
+
+
+
+### 5.9 Others
 
 ...
 
