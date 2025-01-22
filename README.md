@@ -1,9 +1,4 @@
 # FL-Research-Highlight
-
-**The purpose of this work is to follow the state-of-the-art works on Federated Learning**
-
-[TOC]
-
 ## 1. Survey
 
 - [Federated Learning for Generalization,Robustness, Fairness: A Survey and Benchmark](https://arxiv.org/pdf/2311.06750.pdf) - *ArXiv’23*
